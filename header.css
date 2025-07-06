@@ -1,0 +1,83 @@
+.services:hover{
+    text-decoration: underline;color: rgb(236, 2, 2);
+       text-underline-offset: 35px;text-decoration-color: rgb(236, 2, 2);text-decoration-thickness:2px;cursor: pointer;
+}
+.blogs:hover{
+    text-decoration: underline;color: rgb(236, 2, 2);
+       text-underline-offset: 35px;text-decoration-color: rgb(236, 2, 2);text-decoration-thickness:2px;cursor: pointer;
+}
+.portfolio:hover{
+    text-decoration: underline;color: rgb(236, 2, 2);
+       text-underline-offset: 35px;text-decoration-color: rgb(236, 2, 2);text-decoration-thickness:2px;cursor: pointer;
+}
+.team:hover{
+    text-decoration: underline;color: rgb(236, 2, 2);
+       text-underline-offset: 35px;text-decoration-color: rgb(236, 2, 2);text-decoration-thickness:2px;cursor: pointer;
+}
+.contact:hover{
+    text-decoration: underline;color: rgb(236, 2, 2);
+       text-underline-offset: 35px;text-decoration-color: rgb(236, 2, 2);text-decoration-thickness:2px;cursor: pointer;
+}
+.ri-facebook-circle-fill:hover{
+    background-color: rgb(82, 163, 255);
+}
+.ri-twitter-fill:hover{
+    background-color: rgb(203, 110, 221);
+}
+.ri-google-fill:hover{
+    background-color: rgb(212, 230, 113);
+}
+.ri-linkedin-box-fill:hover{
+    background-color: rgb(114, 255, 114);
+}
+
+
+.topmenu{
+height: 5vh;width: 99.8%;border: 1px solid rgb(199, 191, 191);
+}
+.righttopmenu{
+font-size: small;margin-left: 10%;margin-top: 0.5%;color: rgb(85, 85, 85);
+}
+.lefttopmenu{
+color: rgb(75, 75, 75);
+}
+.ri-facebook-circle-fill ,.a{
+    border:1px solid rgb(199, 191, 191);font-size:2.4;box-sizing: border-box;display: inline-block;
+        height: 5.2vh;margin-left: 70.3%;position: absolute;top:0%;padding-top: 0.4%;width: 2.5%;padding-left: 0.5%;
+}
+.ri-twitter-fill ,.b{
+border:0.5px solid rgb(199, 191, 191);font-size:2.4;box-sizing: border-box;display: inline-block;
+        height: 5.2vh;margin-left: 72.7%;position: absolute;top:0%;padding-top: 0.4%;width: 2.5%;padding-left:0.6%;
+}
+.ri-google-fill ,.c{
+border:0.5px solid rgb(199, 191, 191);font-size:2.4;box-sizing: border-box;display: inline-block;
+        height: 5.2vh;margin-left: 75%;position: absolute;top:0%;padding-top: 0.4%;width: 2.5%;padding-left:0.6%;
+}
+.ri-linkedin-box-fill ,.d{
+border:0.5px solid rgb(199, 191, 191);font-size:2.4;box-sizing: border-box;display: inline-block;
+        height: 5.2vh;margin-left: 77.5%;position: absolute;top:0%;padding-top: 0.4%;width: 2.5%;padding-left:0.6%;
+}
+.para1{
+    border:0.5px solid rgb(199, 191, 191);font-size:2.4;box-sizing: border-box;display: inline-block;text-wrap:nowrap;color: white;
+        height: 5.2vh;margin-left: 79.9%;position: absolute;top:0%;padding-top: 0.4%;width:10%;padding-left:0.6%;background-color: rgb(236, 2, 2);
+}
+
+
+.header{
+    width: 99.8%;height: 12vh;margin-top:1%;position:fixed;background-color: white;z-index: 100;
+}
+.logo{
+    height: 60%;width: 12%;margin-left: 7%;
+       background-image: url(Elexoft.png);background-size: 100% 100%;margin-top: 1.5%;cursor: pointer;
+}
+.headcont1{
+    margin-left: 55%;margin-top: -3%;color: rgb(51, 51, 51);
+}
+.headcont2{
+    text-decoration: underline;color: rgb(236, 2, 2);
+       text-underline-offset: 35px;text-decoration-color: rgb(236, 2, 2);text-decoration-thickness:2px;cursor: pointer;
+}
+.services ,.blogs ,.portfolio ,.team ,.contact{
+   margin-left:5%; 
+}
+
